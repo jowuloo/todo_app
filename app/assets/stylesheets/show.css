@@ -46,3 +46,7 @@ h2{
 #delete-todo-button:active{
   box-shadow: 1px 1px 1px #90A4AE;
 }
+h1{ 
+  height: 100px;
+  width: 500px;
+}

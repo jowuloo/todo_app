@@ -12,5 +12,5 @@ class TodoController < ApplicationController
     @todo_description = "Buy workshop supplies"
     @todo_pomodoro_estimate = 3
   end
-end
+  end
 end
